@@ -128,7 +128,7 @@ Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-21
 
 Student Collaborations: [Amanda Pigman](https://www.linkedin.com/in/amanda-pigman-904558227/)
 
-Tutor: Limei Hou
+Tutor: Limei Hou .set_index function and double checking work in general
 
 Reference: [Pandas_Cheat_Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) pd.concat function
  
